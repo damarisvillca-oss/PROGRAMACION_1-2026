@@ -13,7 +13,7 @@ int main() {
     cin >> numero;
     
     if (numero < 1 || numero > 10) {
-        cout << "Error, el número debe estar entre 1 y 10." << endl;
+        cout << "Error, el numero debe estar entre 1 y 10." << endl;
         return 1;
     }
 
